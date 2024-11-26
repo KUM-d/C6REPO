@@ -1,2 +1,6 @@
 this is my first program
+ n1
 welcome lucky
+
+wellscome Akash
+main
