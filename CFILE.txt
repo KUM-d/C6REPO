@@ -1,2 +1,6 @@
 this is my first program
+ n2
 welcome ganesh
+
+wellscome Akash
+ main
