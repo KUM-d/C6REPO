@@ -1,6 +1,14 @@
 this is my first program
  n1
+ n1
 welcome lucky
 
 wellscome Akash
+main
+
+ n2
+welcome ganesh
+
+wellscome Akash
+ main
 main
